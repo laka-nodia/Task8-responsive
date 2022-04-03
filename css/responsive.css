@@ -1,0 +1,24 @@
+@media(max-width:1024px){
+    .nav-block{
+        display: none;
+    }
+    .burger-bar{
+        display: block;
+    }
+}
+@media(max-width:1024px){
+    .section-top{
+        flex-direction: column;
+        align-items: center;
+    }
+    .text-div{
+        margin-bottom: 20px;
+    }
+}
+@media(max-width:484x){
+    .bottom-content{
+        justify-content: center;
+    }
+}
+
+
