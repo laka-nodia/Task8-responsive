@@ -24,7 +24,7 @@
         margin-left: 30px;
     }
 }
-@media(max-width:520px){
+@media(max-width:600px){
     .bottom-content{
         justify-content: center;
     }
