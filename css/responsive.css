@@ -15,10 +15,11 @@
         margin-bottom: 20px;
     }
 }
-@media(max-width:484x){
+@media(max-width:480x){
     .bottom-content{
         justify-content: center;
     }
+
 }
 
 
