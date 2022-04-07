@@ -1,1 +1,3 @@
-# Task8-responsive
+# Assignment 8
+
+* Responsive design
